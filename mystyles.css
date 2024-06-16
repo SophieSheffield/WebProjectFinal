@@ -1,0 +1,33 @@
+/* Sophie Sheffield
+Section 003
+June 14 2024 */
+
+body{
+    background-color:rgb(252, 253, 253);
+    font-weight: 200;
+    font-size:large;
+    color: black;
+}
+
+    
+.header{
+    top: 5px;
+    height:600px;
+    left:5px;
+    right:5px;
+    
+}
+
+.container{
+    top: 600px;
+    left: 600px;
+    right: 600px;
+    bottom:50px;
+
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px; 
+}
